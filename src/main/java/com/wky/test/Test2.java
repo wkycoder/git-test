@@ -11,6 +11,7 @@ public class Test2 {
         System.out.println("master test2 class");
 
         System.out.println("feature a");
+        System.out.println("feature b");
     }
 
 }

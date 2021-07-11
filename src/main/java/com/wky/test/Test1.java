@@ -15,6 +15,7 @@ public class Test1 {
         System.out.println("checkout master");
 
         System.out.println("master commit");
+        System.out.println("master commit ....");
     }
 
 

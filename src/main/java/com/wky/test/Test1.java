@@ -7,7 +7,13 @@ package com.wky.test;
 public class Test1 {
 
     public static void main(String[] args) {
-        System.out.println("dddddd");
+        System.out.println("dddddddddd");
+        int a = 0;
+        System.out.println("test conflict");
+
+        System.out.println("ddddd");
+        System.out.println("checkout master");
     }
+
 
 }

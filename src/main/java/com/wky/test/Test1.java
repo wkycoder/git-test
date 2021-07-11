@@ -16,9 +16,9 @@ public class Test1 {
 
         System.out.println("master commit");
         System.out.println("master commit ....");
-
+        System.out.println("master rebase");
         System.out.println("test rebase -i");
-
+        System.out.println("master test checkout");
         System.out.println("test checkout");
     }
 

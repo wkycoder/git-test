@@ -18,6 +18,8 @@ public class Test2 {
         System.out.println("v1.0 again commit");
 
         System.out.println("merge");
+
+        System.out.println("模拟其他功能分支的合并");
     }
 
 }

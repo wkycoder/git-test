@@ -20,6 +20,8 @@ public class Test2 {
         System.out.println("merge");
 
         System.out.println("模拟其他功能分支的合并");
+
+        System.out.println("commit");
     }
 
 }

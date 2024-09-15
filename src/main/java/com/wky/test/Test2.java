@@ -24,6 +24,7 @@ public class Test2 {
         System.out.println("commit");
 
         System.out.println("test revert merge commit");
+        System.out.println("test revert merge commit 2");
     }
 
 }

@@ -22,9 +22,6 @@ public class Test2 {
         System.out.println("模拟其他功能分支的合并");
 
         System.out.println("commit");
-
-        System.out.println("test revert merge commit");
-        System.out.println("test revert merge commit 2");
     }
 
 }

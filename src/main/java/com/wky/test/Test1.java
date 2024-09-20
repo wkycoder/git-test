@@ -22,6 +22,7 @@ public class Test1 {
         System.out.println("test checkout");
 
         System.out.println("test merge");
+        System.out.println("test ddd");
     }
 
 }

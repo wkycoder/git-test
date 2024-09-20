@@ -10,5 +10,6 @@ public class TestV2 {
         System.out.println("hello");
         System.out.println("test");
         System.out.println("test merge");
+        System.out.println("test push");
     }
 }

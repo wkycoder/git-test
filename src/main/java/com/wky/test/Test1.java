@@ -20,6 +20,8 @@ public class Test1 {
         System.out.println("test rebase -i");
         System.out.println("master test checkout");
         System.out.println("test checkout");
+
+        System.out.println("test merge");
     }
 
 }
